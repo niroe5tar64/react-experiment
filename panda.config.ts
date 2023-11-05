@@ -13,6 +13,9 @@ export default defineConfig({
   // Files to exclude
   exclude: [],
 
+  // Settings to generate React Components
+  jsxFramework: 'react',
+
   // Useful for theme customization
   theme: {
     extend: {},
